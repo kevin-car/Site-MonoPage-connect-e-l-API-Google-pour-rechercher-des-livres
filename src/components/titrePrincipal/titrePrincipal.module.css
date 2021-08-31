@@ -1,0 +1,6 @@
+.titrePrincipal{
+    font-family: 'Sigmar One', cursive;
+}
+.titrePrincipal:hover{
+    color: red !important;
+}
